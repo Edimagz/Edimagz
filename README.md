@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
 <h3 align="center">Welcome to my journey in programing and cybersecurity.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/e62e09_c2985c5cd99747e990e2ee0fdbfef162~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edimagz&label=Profile%20views&color=0e75b6&style=flat" alt="edimagz" /> </p>
 
